@@ -2,7 +2,7 @@
 
 Training algorithms here :D
 
-You can see more algorithms at my [HackerRank repository!](https://github.com/leocabrallce/HackerRank/tree/master/Algorithms)
+You can see more algorithms at my [HackerRank repository](https://github.com/leocabrallce/HackerRank/tree/master/Algorithms) or at my [CodeFights repository!](https://github.com/leocabrallce/CodeFights)
 
 ## [vetorIndice.cs](https://github.com/leocabrallce/Algorithms/tree/master/vetorIndice.cs)
 Considere um vetor _V_ de _n_ posições preenchido com inteiros em ordem crescente. Proponha um algoritmo

@@ -13,3 +13,5 @@ precisamente o seu algoritmo.
 Considere um vetor _V_ de _n_ posições preenchido com inteiros em ordem crescente e um valor _x_. Proponha um algoritmo
 de complexidade _O(n)_ para determinar se este vetor possui pelo menos uma soma entre dois valores distintos onde _V[i] + V[j] = x_. Descreva
 precisamente o seu algoritmo.
+
+## [StackPratice.js](https://github.com/leocabrallce/Algorithms/tree/master/StackPratice.js)

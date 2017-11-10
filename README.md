@@ -15,3 +15,4 @@ de complexidade _O(n)_ para determinar se este vetor possui pelo menos uma soma 
 precisamente o seu algoritmo.
 
 ## [StackPratice.js](https://github.com/leocabrallce/Algorithms/tree/master/StackPratice.js)
+Exercício com o objetivo de verificar se a expressão passada é matematicamente possível e praticar o uso de pilhas.
